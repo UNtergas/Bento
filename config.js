@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'EDT',
+			icon: 'calendar-range',
+			link: 'https://edt.insa-cvl.fr/',
 		},
 		{
 			id: '4',
@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.amazon.fr/',
 				},
 				{
-					name: 'Soundcloud',
-					link: 'https://soundcloud.com/',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
 					name: 'DevTo',
