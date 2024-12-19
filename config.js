@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Amazon',
-					link: 'https://www.amazon.fr/',
+					name: 'Mess',
+					link: 'https://www.facebook.com/messages/',
 				},
 				{
 					name: 'Youtube',
